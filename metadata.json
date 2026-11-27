@@ -1,0 +1,6 @@
+{
+  "name": "Pocket Knight",
+  "description": "A tactile, mobile-first chess game with smart AI difficulty levels, pass-and-play mode, and crisp board themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
